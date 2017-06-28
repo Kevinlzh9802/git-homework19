@@ -1,12 +1,12 @@
-# git-homework19
+~~~~# git-homework19
 队式十九`git`小练习
 
 这个练习比较简单，主要目的是让大家练习一下基本的指令，并且掌握一种比较简单的工作流。
 
 *当然git还有丰富的指令、选项，在使用时可以-h或者查阅文档来学习，具体的工作流也不限于这一种，而且现实中会有各种各样的事情发生，包括冲突等等。*
 
-Enjoy and have fun.
-<h6 align = "right">2017年6月</h6>
+Enjoy and have fun.:blush:
+<div align = "right">2017年6月</div>
 
 ## 练习内容
 
@@ -15,7 +15,6 @@ Enjoy and have fun.
 主要指令：
 `clone`,`add`,`commit`,`log`,`status`,`merge`,`push`,`pull`,`remote`,`rebase`
 
----
 内容：
 1. fork这个仓库并`clone`到本地
 2. 创建一个以你的名字命名的分支
