@@ -1,2 +1,0 @@
-name:Tenglong Ao
-Class: EE66
